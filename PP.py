@@ -1,2 +1,2 @@
-S=input()
-print(S)
+Sb=input()
+print(Sb)

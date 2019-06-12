@@ -2,33 +2,33 @@
 S=int(input())
 for i in range(0,10):
 	if(i==1):
-		print("one")
+		print("One")
 		break
 	if(i==2):
-		print("two")
+		print("Two")
 		break
 	if(i==3):
-		print("three")
+		print("Three")
 		break
 	if(i==4):
-		print("four")
+		print("Four")
 		break
 	if(i==5):
-		print("five")
+		print("Five")
 		break
 	if(i==6):
-		print("six")
+		print("Six")
 		break
 	if(i==7):
-		print("seven")
+		print("Seven")
 		break
 	if(i==8):
-		print("eight")
+		print("Eight")
 		break
 	if(i==9):
-		print("nine")
+		print("Nine")
 		break
 	if(i==10):
-		print("ten")
+		print("Ten")
 		break
 
